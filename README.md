@@ -4,13 +4,6 @@ A clean, modern, and fully responsive freelancing landing page built with **HTML
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click Here to View the Website](https://your-live-demo-link.netlify.app)  
-*(Replace with your Netlify or GitHub Pages link)*
-
----
-
 ## 🧩 Features
 
 - ⚡ Fully responsive design (mobile-first)
